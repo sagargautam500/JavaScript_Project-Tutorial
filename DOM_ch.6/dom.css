@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-size: larger; */
+}
+#heading{
+    background-color: rgb(165, 131, 87);
+}
+.heading2{
+    background-color: rgb(47, 51, 27);
+    color: white
+}
+h5{
+    visibility: hidden;
+}

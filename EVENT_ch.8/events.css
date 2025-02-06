@@ -1,0 +1,33 @@
+div{
+    height: 20rem;
+    width: 20rem;
+    background-color: blueviolet;
+    border: 2px solid black;
+    margin-top: 20px;
+    /* background-color: #f9f3f3; */
+}
+#mode{
+    background-color: brown;
+    width: 7em;
+    height: 2em;
+    font-size: 2rem;
+    border-radius: 20px;
+    margin: 20px;
+    position: relative;
+    top: 4vh;
+    left: 9%;
+    transition: 0.4s ease-in;
+}
+#mode:hover{ 
+/* transform: translateY(5px); */
+background-color: blueviolet;
+color: azure;
+}
+.Light{
+    background-color: rgb(240, 248, 255);
+    color: black;
+}
+.dark{
+    background-color:rgb(42, 39, 39) ;
+    color: azure;
+}
